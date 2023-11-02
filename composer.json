@@ -1,13 +1,14 @@
 {
     "name": "neos/cli-setup",
     "type": "neos-package",
+    "abandoned": "neos/setup",
     "license": [
         "GPL-3.0-or-later"
     ],
     "description": "ClI setup for Neos CMS",
     "require": {
         "php": "^8.0",
-        "neos/neos": "self.version"
+        "neos/neos": "~8.1"
     },
     "autoload": {
         "psr-4": {
