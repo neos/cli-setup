@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This package is abandoned. Please use `neos/setup` (in the new version 6) and `neos/neos-setup` (version 3) instead.
+> See https://github.com/neos/neos-development-collection/issues/4243
+
 ----------------
 The Neos package
 ----------------
