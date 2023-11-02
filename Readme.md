@@ -1,9 +1,12 @@
+> [!WARNING]  
+> This package is abandoned. Please use `neos/setup` (in the new version 6) and `neos/neos-setup` (version 3) instead.
+> See https://github.com/neos/neos-development-collection/issues/4243
+
 ----------------
 The Neos package
 ----------------
 
-.. note:: This repository is a **read-only subsplit** of a package that is part of the
-          Neos project (learn more on `www.neos.io <https://www.neos.io/>`_).
+This repository **was** a **read-only subsplit** of a package that is part of the neos dev collection https://github.com/neos/neos-development-collection
 
 Neos is an open source Content Application Platform based on Flow. A set of
 core Content Management features is resting within a larger context that allows
